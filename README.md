@@ -1,2 +1,2 @@
-# tomactgitfile
-demo tomcat file
+# TomcatMavenApp
+Sample Tomcat Maven App
